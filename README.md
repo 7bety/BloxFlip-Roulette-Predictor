@@ -12,7 +12,6 @@ print("i love guys")
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7bety&layout=compact&theme=gotham" />
 </a>
 ----
-[![Hits](http://hits.dwyl.com/7bety/7bety.svg)](http://hits.dwyl.com/7bety/7bety)
 
 
 Daddy: [EXCET](https://github.com/EXCET)
